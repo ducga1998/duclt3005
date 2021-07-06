@@ -32,7 +32,7 @@ h2{
 
 # Hi there 👋 I'm Duclt !
 
-<img align='right' src="https://media.giphy.com/media/JKo6P5QyuFkuhLlfVq/giphy.gif" width="350">
+<img align='right' src="https://media.giphy.com/media/JKo6P5QyuFkuhLlfVq/giphy.gif" width="340">
 <h3> 👨🏻‍💻 About Me </h3>
 <ul>
   <li> 🔭 &nbsp; I’m currently working Web Application Development</li>
