@@ -31,7 +31,7 @@ h2{
 
 # Hi there 👋 I'm Duclt !
 
-<img align='right' src="https://media.giphy.com/media/JKo6P5QyuFkuhLlfVq/giphy.gif" width="250">
+<img align='right' src="https://media.giphy.com/media/JKo6P5QyuFkuhLlfVq/giphy.gif" width="350">
 <h2> 👨🏻‍💻 About Me </h2>
 <ul>
   <li> 🔭 &nbsp; I’m currently working Web Application Development</li>
@@ -41,11 +41,10 @@ h2{
   <li> ✍️ &nbsp; Reading book, watching Films and trying out latest technology trends as hobbies/side hustles.</li>
 </ul>
 
-<hr>
 <h2> 🤝🏻 Connect with Me </h2>
 <p align="center">
-  &nbsp; <a href="https://join.skype.com/invite/hX3CDP8xWnBD" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/skype.png" width="50" /></a>  
-&nbsp; <a href="https://facebook.com/tranluong.hip" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png" width="50" /></a>  
+<a href="https://join.skype.com/invite/hX3CDP8xWnBD" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/skype.png" width="50" /></a>
+&nbsp; <a href="https://facebook.com/tranluong.hip" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png" width="50" /></a>
 &nbsp; <a href="mailto:tvl991504@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
   &nbsp; <a href="tel:0868490083" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/phone.png"  width="50" /></a>
 </p>
@@ -116,4 +115,3 @@ h2{
 <br>
 
 ⭐️ From [Duclt](https://github.com/duclt3005)
-
