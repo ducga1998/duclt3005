@@ -44,10 +44,10 @@ h2{
 
 <h3> 🤝🏻 Connect with Me </h3>
 <p align="center">
-<a href="https://join.skype.com/invite/hX3CDP8xWnBD" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/skype.png" width="50" /></a>
-&nbsp; <a href="https://facebook.com/tranluong.hip" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png" width="50" /></a>
-&nbsp; <a href="mailto:tvl991504@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-  &nbsp; <a href="tel:0868490083" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/phone.png"  width="50" /></a>
+<a href="https://join.skype.com/invite/l7befvSJk0kD" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/skype.png" width="50" /></a>
+&nbsp; <a href="https://facebook.com/duclt3005" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png" width="50" /></a>
+&nbsp; <a href="mailto:duclt3005@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+  &nbsp; <a href="tel:0849300599" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/phone.png"  width="50" /></a>
 </p>
 <hr>
 <h3 >🛠 Technology & Tools</h3>
