@@ -25,13 +25,16 @@ h2{
   margin: 15px 0;
   border-bottom: none;
 }
+div a {
+  display: flex;
+}
 </style> -->
 <p align="center">
   <img src="./header_.png" width="100%" title="Readme Banner">
 </p>
 
 # Hi there 👋 I'm Duclt !
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=10A789&size=24&width=500&lines=Nice+to+meet+you...;Full+stack+developer...;Developer+at+1homez+🏡)](https://git.io/typing-svg)
 <img align='right' src="https://media.giphy.com/media/JKo6P5QyuFkuhLlfVq/giphy.gif" width="340">
 <h3> 👨🏻‍💻 About Me </h3>
 <ul>
@@ -104,15 +107,21 @@ h2{
     </td>
   </tr>
 </table>
+<br>
+<p>
+  <a href="https://github.com/duclt3005">
+      <img src="https://github-readme-stats.vercel.app/api?username=duclt3005&show_icons=true&theme=gotham" alt="Duclt's Github">&nbsp;&nbsp;
+     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=duclt3005&show_icons=true&locale=en&layout=compact&theme=radical" alt="vaulstein" />
+  </a>
+</p>
+<hr>
 
-<br>
-<a href="https://github.com/duclt3005">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=duclt3005&show_icons=true&theme=gotham" alt="Rounak's GitHub Stats">
-</a>
-<br>
-<br>
+<h3> 🎧 Spotify Playing </h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duclt3005&layout=compact&text_color=daf7dc&bg_color=222222&theme=gotham)
-<br>
+[![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ) [![KPOP Music](https://img.shields.io/badge/KPOP%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2DFExFNWYOwQMZy6wUeCxX?si=s1Ndgj8hTg-r8zLlvRgv1Q) [![PPOP Music](https://img.shields.io/badge/PPOP%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/58bZKfJFpUl2CwWET1QJ3X?si=259YV8_VRS-IKHsFZMmPTQ)
+
+[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
+<hr>
 
 ⭐️ From [Duclt](https://github.com/duclt3005)
+ 
