@@ -1,37 +1,9 @@
-<!-- <style>
-table{
-  width: 100%
-}
-tr{
-  border: 1px solid white
-}
-tr td:nth-child(2),tr th:nth-child(2) {
-  border-left: 2px solid white
-}
 
-th,td,tr{
-  width: 50%;
-}
-th{
-  padding : 10px;
-}
-td{
-  padding: 15px 10px;
-}
-li{
-  font-size: 16px
-}
-h2{
-  margin: 15px 0;
-  border-bottom: none;
-}
-div a {
-  display: flex;
-}
-</style> -->
+<link href="style.css" rel="stylesheet"></link>
 <p align="center">
   <img src="./header_.png" width="100%" title="Readme Banner">
 </p>
+
 
 # Hi there 👋 I'm Duclt !
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=10A789&size=24&width=500&lines=Nice+to+meet+you...;Full+stack+developer...;Developer+at+1homez+🏡)](https://git.io/typing-svg)
