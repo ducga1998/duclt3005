@@ -1,4 +1,4 @@
-<style>
+<!-- <style>
 table{
   width: 100%
 }
@@ -23,8 +23,9 @@ li{
 }
 h2{
   margin: 15px 0;
+  border-bottom: none;
 }
-</style>
+</style> -->
 <p align="center">
   <img src="./header_.png" width="100%" title="Readme Banner">
 </p>
