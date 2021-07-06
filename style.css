@@ -1,0 +1,30 @@
+
+table{
+  width: 100%
+}
+tr{
+  border: 1px solid white
+}
+tr td:nth-child(2),tr th:nth-child(2) {
+  border-left: 2px solid white
+}
+
+th,td,tr{
+  width: 50%;
+}
+th{
+  padding : 10px;
+}
+td{
+  padding: 15px 10px;
+}
+li{
+  font-size: 16px
+}
+h2{
+  margin: 15px 0;
+  border-bottom: none;
+}
+div a {
+  display: flex;
+}
